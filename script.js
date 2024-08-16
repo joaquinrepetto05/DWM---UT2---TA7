@@ -10,8 +10,8 @@ function getTheTitles(books) {
 
 const books = [
     {
-        title: 'Book',
-        author: 'Name'
+        title: 'Book1',
+        author: 'Name1'
     },
     {
         title: 'Book2',
